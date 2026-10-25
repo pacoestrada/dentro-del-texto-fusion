@@ -4,7 +4,9 @@ Un efecto reutilizable de Paco Estrada: el vídeo se ve dentro de las letras sob
 
 Probado por el autor en **DaVinci Resolve Studio 21 sobre Linux**. No requiere complementos adicionales. Otras versiones y sistemas no se han probado.
 
-## Vídeo de ejemplo
+## Ejemplo del efecto
+
+![Vídeo dentro de las letras de LINUX](https://github.com/user-attachments/assets/79fccbc1-6435-44b3-852f-2fba9f36ee09)
 
 [Ver o descargar el vídeo de ejemplo](demo.mp4)
 
